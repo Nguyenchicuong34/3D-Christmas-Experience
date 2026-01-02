@@ -4,7 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ###  Live Demo
-👉 **[Click here to view the 3D Scene](LINK_GITHUB_PAGES_CUA_BAN_O_DAY)**
+👉 **[Click here to view the 3D Scene](https://github.com/Nguyenchicuong34/3D-Christmas-Experience)**
 
 ---
 
