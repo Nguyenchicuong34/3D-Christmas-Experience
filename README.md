@@ -25,10 +25,6 @@ The project demonstrates my ability to handle **3D coordinate systems**, **light
 * **3D Library:** Three.js (ES6 Modules).
 * **Control:** OrbitControls.js.
 
-###  Screenshots
-*(Chụp màn hình cái cây thông đẹp nhất của bạn dán vào đây)*
-> ![3D Tree Demo](link_anh_cua_ban)
-
 ---
 
 ###  Author
