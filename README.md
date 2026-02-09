@@ -26,7 +26,8 @@ The project demonstrates my ability to handle **3D coordinate systems**, **light
 * **Control:** OrbitControls.js.
 
 ### Demo Picture
-![z7388405280597_3fa7d2a1dbd39e332f1a9aac23a6ddde](https://github.com/user-attachments/assets/71058798-e073-4141-9bf3-f1358bfcde15)
+
+![z7360625006041_7e38f357fd108ee0c04fc47abcced544](https://github.com/user-attachments/assets/fd41ffe2-9f28-459c-ac30-f0328d0cc0c1)
 
 ---
 
