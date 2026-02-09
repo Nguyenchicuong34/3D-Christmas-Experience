@@ -25,6 +25,9 @@ The project demonstrates my ability to handle **3D coordinate systems**, **light
 * **3D Library:** Three.js (ES6 Modules).
 * **Control:** OrbitControls.js.
 
+### Demo Picture
+![z7388405280597_3fa7d2a1dbd39e332f1a9aac23a6ddde](https://github.com/user-attachments/assets/71058798-e073-4141-9bf3-f1358bfcde15)
+
 ---
 
 ###  Author
